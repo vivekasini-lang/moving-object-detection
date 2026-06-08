@@ -14,5 +14,5 @@ This project can be used to detect moving object in camera using contour detecti
 ## Run the program
 1.Install imutils,opencv
 2.Run program project 1(moving object detection).py
-##Author
+## Author
 Vivekasini Parthiban
