@@ -7,7 +7,7 @@ This project can be used to detect moving object in camera using contour detecti
 *Texts:Normal if no moving object detected
        Moving object detected if object moves
 *Bounding boxes around moving objects 
-##Technologies used
+## Technologies used
 *Python
 *Opencv
 *imutils
